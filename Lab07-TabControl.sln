@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07-TabControl", "Lab07-TabControl\Lab07-TabControl.csproj", "{FEE9F4A1-1377-4FEC-8FC7-721B46702528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE9F4A1-1377-4FEC-8FC7-721B46702528}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

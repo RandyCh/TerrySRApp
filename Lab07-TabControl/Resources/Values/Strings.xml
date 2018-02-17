@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Lab07-TabControl</string>
+  <string name="fa_icon_areachart">&#xf1fe;</string>
+  <string name="fa_icon_piechart">&#xf200;</string>
+  <string name="fa_icon_linechart">&#xf201;</string>
+</resources>
